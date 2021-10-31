@@ -1,0 +1,19 @@
+{
+  "name": "spark-web-npm-webpack-bootstrap",
+  "version": "1.0.0",
+  "description": "Training NPM, Webpack & Bootstrap for Anko CodeMaker academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragongling/spark-web-npm-webpack-bootstrap.git"
+  },
+  "author": "Alexander Slesarenko (dragongling@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dragongling/spark-web-npm-webpack-bootstrap/issues"
+  },
+  "homepage": "https://github.com/dragongling/spark-web-npm-webpack-bootstrap#readme"
+}
